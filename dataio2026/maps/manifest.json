@@ -1,13 +1,15 @@
 {
-  "capturedAt": "2026-10-10T15:33:57.662602+00:00",
+  "capturedAt": "2026-10-10T21:55:09.555536+00:00",
   "source": "USGS The National Map \u2014 USGS Topo",
   "service": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/export",
+  "style": "Locally processed dark theme",
+  "format": "WebP quality 92",
   "zoom": 15,
   "radius": 12,
   "campuses": [
     {
       "name": "Columbus",
-      "file": "columbus.png",
+      "file": "columbus.webp",
       "bbox": [
         -83.155517578125,
         39.90130858574736,
@@ -17,7 +19,7 @@
     },
     {
       "name": "Medical Center",
-      "file": "medical-center.png",
+      "file": "medical-center.webp",
       "bbox": [
         -83.155517578125,
         39.89287990029479,
@@ -27,7 +29,7 @@
     },
     {
       "name": "Wooster",
-      "file": "wooster.png",
+      "file": "wooster.webp",
       "bbox": [
         -82.06787109375,
         40.68063802521457,
@@ -37,7 +39,7 @@
     },
     {
       "name": "Lima",
-      "file": "lima.png",
+      "file": "lima.webp",
       "bbox": [
         -84.2431640625,
         40.638967343817235,
@@ -47,7 +49,7 @@
     },
     {
       "name": "Mansfield",
-      "file": "mansfield.png",
+      "file": "mansfield.webp",
       "bbox": [
         -82.650146484375,
         40.69729900863674,
@@ -57,7 +59,7 @@
     },
     {
       "name": "Marion",
-      "file": "marion.png",
+      "file": "marion.webp",
       "bbox": [
         -83.265380859375,
         40.48038142908171,
@@ -67,7 +69,7 @@
     },
     {
       "name": "Newark",
-      "file": "newark.png",
+      "file": "newark.webp",
       "bbox": [
         -82.540283203125,
         39.96870074491694,
@@ -77,7 +79,7 @@
     },
     {
       "name": "Satellite Locations",
-      "file": "satellite-locations.png",
+      "file": "satellite-locations.webp",
       "bbox": [
         -83.8916015625,
         40.24599150419902,
