@@ -1,0 +1,97 @@
+{
+  "with_infrastructure": [
+    {
+      "utility": "COOLING",
+      "readingunits": "kWh",
+      "total": 526344614.4695967,
+      "num_sites": 87
+    },
+    {
+      "utility": "COOLING_POWER",
+      "readingunits": "kW",
+      "total": 12154056201.262627,
+      "num_sites": 1
+    },
+    {
+      "utility": "ELECTRICITY",
+      "readingunits": "kWh",
+      "total": 1349882036.0828753,
+      "num_sites": 279
+    },
+    {
+      "utility": "GAS",
+      "readingunits": "kWh",
+      "total": 432651005.078934,
+      "num_sites": 150
+    },
+    {
+      "utility": "HEAT",
+      "readingunits": "kWh",
+      "total": 1176925180.4015236,
+      "num_sites": 135
+    },
+    {
+      "utility": "OIL28SEC",
+      "readingunits": "kWh",
+      "total": 0.0,
+      "num_sites": 1
+    },
+    {
+      "utility": "STEAM",
+      "readingunits": "kg",
+      "total": 667395281.3279636,
+      "num_sites": 29
+    },
+    {
+      "utility": "STEAMRATE",
+      "readingunits": "kg/hour",
+      "total": 57306612.5201808,
+      "num_sites": 1
+    }
+  ],
+  "without_infrastructure": [
+    {
+      "utility": "COOLING",
+      "readingunits": "kWh",
+      "total": 141297981.72569472,
+      "num_sites": 84
+    },
+    {
+      "utility": "COOLING_POWER",
+      "readingunits": "kW",
+      "total": 12154056201.262627,
+      "num_sites": 1
+    },
+    {
+      "utility": "ELECTRICITY",
+      "readingunits": "kWh",
+      "total": 833115130.9551637,
+      "num_sites": 274
+    },
+    {
+      "utility": "GAS",
+      "readingunits": "kWh",
+      "total": 432651005.078934,
+      "num_sites": 149
+    },
+    {
+      "utility": "HEAT",
+      "readingunits": "kWh",
+      "total": 1080757133.384419,
+      "num_sites": 132
+    },
+    {
+      "utility": "STEAM",
+      "readingunits": "kg",
+      "total": 667395281.3279636,
+      "num_sites": 28
+    },
+    {
+      "utility": "STEAMRATE",
+      "readingunits": "kg/hour",
+      "total": 57306612.5201808,
+      "num_sites": 1
+    }
+  ],
+  "note": "McCracken Power Plant alone accounts for 99.9%+ of GAS and STEAM totals"
+}

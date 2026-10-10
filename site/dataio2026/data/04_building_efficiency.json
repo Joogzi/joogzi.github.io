@@ -1,0 +1,457 @@
+{
+  "least_efficient": [
+    {
+      "siteid": 44208,
+      "sitename": "Field Hockey and Outdoor Tennis Office",
+      "campus": "Columbus",
+      "eui": 5233.6,
+      "annual_kwh": 4909114.0,
+      "gross_area": 938.0,
+      "construction_year": 2010
+    },
+    {
+      "siteid": 44280,
+      "sitename": "Waterman Farm - Agronomy Machinery Storage",
+      "campus": "Columbus",
+      "eui": 4362.18,
+      "annual_kwh": 15996103.0,
+      "gross_area": 3667.0,
+      "construction_year": 1975
+    },
+    {
+      "siteid": 44037,
+      "sitename": "Dodd Hall",
+      "campus": "Medical Center",
+      "eui": 1631.24,
+      "annual_kwh": 141594667.0,
+      "gross_area": 86802.0,
+      "construction_year": 1961
+    },
+    {
+      "siteid": 44212,
+      "sitename": "Generator Building",
+      "campus": "Columbus",
+      "eui": 1616.99,
+      "annual_kwh": 7190759.0,
+      "gross_area": 4447.0,
+      "construction_year": 2012
+    },
+    {
+      "siteid": 44123,
+      "sitename": "Power House",
+      "campus": "Columbus",
+      "eui": 1584.86,
+      "annual_kwh": 14227304.0,
+      "gross_area": 8977.0,
+      "construction_year": 1949
+    },
+    {
+      "siteid": 44240,
+      "sitename": "Morehouse Medical Plaza, Martha - Concourse",
+      "campus": "Medical Center",
+      "eui": 1517.34,
+      "annual_kwh": 62910313.0,
+      "gross_area": 41461.0,
+      "construction_year": 1984
+    },
+    {
+      "siteid": 44098,
+      "sitename": "Newman and Wolfrom Laboratory of Chemistry",
+      "campus": "Columbus",
+      "eui": 1369.9,
+      "annual_kwh": 85013519.0,
+      "gross_area": 62058.0,
+      "construction_year": 1995
+    },
+    {
+      "siteid": 44009,
+      "sitename": "Biotechnology Support Facility",
+      "campus": "Columbus",
+      "eui": 1327.57,
+      "annual_kwh": 32431142.0,
+      "gross_area": 24429.0,
+      "construction_year": 1993
+    },
+    {
+      "siteid": 44277,
+      "sitename": "Telecommunications Network Center",
+      "campus": "Columbus",
+      "eui": 1270.6,
+      "annual_kwh": 38152446.0,
+      "gross_area": 30027.0,
+      "construction_year": 1969
+    },
+    {
+      "siteid": 44008,
+      "sitename": "Biomedical Research Tower",
+      "campus": "Medical Center",
+      "eui": 1224.82,
+      "annual_kwh": 505396800.0,
+      "gross_area": 412630.0,
+      "construction_year": 2006
+    },
+    {
+      "siteid": 44171,
+      "sitename": "Wiseman Hall",
+      "campus": "Medical Center",
+      "eui": 1202.4,
+      "annual_kwh": 98635411.0,
+      "gross_area": 82032.0,
+      "construction_year": 1960
+    },
+    {
+      "siteid": 44025,
+      "sitename": "CBEC",
+      "campus": "Columbus",
+      "eui": 1171.57,
+      "annual_kwh": 277120398.0,
+      "gross_area": 236537.0,
+      "construction_year": 2014
+    },
+    {
+      "siteid": 44070,
+      "sitename": "Ice Rink",
+      "campus": "Columbus",
+      "eui": 1148.39,
+      "annual_kwh": 39200449.0,
+      "gross_area": 34135.0,
+      "construction_year": 1961
+    },
+    {
+      "siteid": 44135,
+      "sitename": "Rightmire Hall",
+      "campus": "Columbus",
+      "eui": 1144.67,
+      "annual_kwh": 111777123.0,
+      "gross_area": 97650.0,
+      "construction_year": 1969
+    },
+    {
+      "siteid": 44291,
+      "sitename": "Women's Field House",
+      "campus": "Columbus",
+      "eui": 1134.63,
+      "annual_kwh": 6146305.0,
+      "gross_area": 5417.0,
+      "construction_year": 1927
+    },
+    {
+      "siteid": 44131,
+      "sitename": "Recreation and Physical Activity Center",
+      "campus": "Columbus",
+      "eui": 1122.39,
+      "annual_kwh": 314107555.0,
+      "gross_area": 279856.0,
+      "construction_year": 2005
+    },
+    {
+      "siteid": 44055,
+      "sitename": "Goss Laboratory",
+      "campus": "Columbus",
+      "eui": 1064.72,
+      "annual_kwh": 72340573.0,
+      "gross_area": 67943.0,
+      "construction_year": 1962
+    },
+    {
+      "siteid": 44161,
+      "sitename": "Tzagournis Medical Research Facilty",
+      "campus": "Medical Center",
+      "eui": 1047.56,
+      "annual_kwh": 84241476.0,
+      "gross_area": 80417.0,
+      "construction_year": 1994
+    },
+    {
+      "siteid": 44029,
+      "sitename": "Comprehensive Cancer Center (CCC)",
+      "campus": "Medical Center",
+      "eui": 1018.52,
+      "annual_kwh": 75767890.0,
+      "gross_area": 74390.0,
+      "construction_year": 1980
+    },
+    {
+      "siteid": 44206,
+      "sitename": "Evans Hall",
+      "campus": "Medical Center",
+      "eui": 907.34,
+      "annual_kwh": 25018164.0,
+      "gross_area": 27573.0,
+      "construction_year": 1977
+    },
+    {
+      "siteid": 44068,
+      "sitename": "Howlett Hall",
+      "campus": "Columbus",
+      "eui": 898.38,
+      "annual_kwh": 56440472.0,
+      "gross_area": 62825.0,
+      "construction_year": 1969
+    },
+    {
+      "siteid": 44119,
+      "sitename": "Physics Research Building",
+      "campus": "Columbus",
+      "eui": 883.33,
+      "annual_kwh": 210880208.0,
+      "gross_area": 238732.0,
+      "construction_year": 2005
+    },
+    {
+      "siteid": 44110,
+      "sitename": "Parker Food Science and Technology Building",
+      "campus": "Columbus",
+      "eui": 870.74,
+      "annual_kwh": 68465511.0,
+      "gross_area": 78629.0,
+      "construction_year": 2000
+    },
+    {
+      "siteid": 44163,
+      "sitename": "Veterinary Medical Center",
+      "campus": "Columbus",
+      "eui": 837.32,
+      "annual_kwh": 232983748.0,
+      "gross_area": 278249.0,
+      "construction_year": 1973
+    },
+    {
+      "siteid": 44133,
+      "sitename": "Rhodes Hall",
+      "campus": "Medical Center",
+      "eui": 831.25,
+      "annual_kwh": 422607780.0,
+      "gross_area": 508398.0,
+      "construction_year": 1979
+    }
+  ],
+  "most_efficient": [
+    {
+      "siteid": 44200,
+      "sitename": "Old Cannon Parking Garage",
+      "campus": "Columbus",
+      "eui": 0.32,
+      "annual_kwh": 131045.0,
+      "gross_area": 411661.0,
+      "construction_year": 2022
+    },
+    {
+      "siteid": 44195,
+      "sitename": "Coffey Rd Sports Center",
+      "campus": "Columbus",
+      "eui": 1.32,
+      "annual_kwh": 3264.0,
+      "gross_area": 2481.0,
+      "construction_year": 2021
+    },
+    {
+      "siteid": 44262,
+      "sitename": "Pesticide Handling Facility",
+      "campus": "Columbus",
+      "eui": 2.14,
+      "annual_kwh": 5880.0,
+      "gross_area": 2753.0,
+      "construction_year": 1996
+    },
+    {
+      "siteid": 44281,
+      "sitename": "Waterman Farm - Agronomy Turf Research",
+      "campus": "Columbus",
+      "eui": 2.76,
+      "annual_kwh": 5240.0,
+      "gross_area": 1900.0,
+      "construction_year": 1970
+    },
+    {
+      "siteid": 48593,
+      "sitename": "Energy Advancement and Innovation Center",
+      "campus": "Columbus",
+      "eui": 5.87,
+      "annual_kwh": 388462.0,
+      "gross_area": 66170.0,
+      "construction_year": 2023
+    },
+    {
+      "siteid": 44252,
+      "sitename": "Parking Garage - Arps",
+      "campus": "Columbus",
+      "eui": 11.44,
+      "annual_kwh": 3695668.0,
+      "gross_area": 323165.0,
+      "construction_year": 1967
+    },
+    {
+      "siteid": 44260,
+      "sitename": "Parking Garage - West Lane Ave",
+      "campus": "Columbus",
+      "eui": 13.01,
+      "annual_kwh": 1318501.0,
+      "gross_area": 101308.0,
+      "construction_year": 1973
+    },
+    {
+      "siteid": 44278,
+      "sitename": "Turfgrass Foundation Research and Education Facility",
+      "campus": "Columbus",
+      "eui": 13.41,
+      "annual_kwh": 101565.0,
+      "gross_area": 7573.0,
+      "construction_year": 1995
+    },
+    {
+      "siteid": 44259,
+      "sitename": "Parking Garage - Ohio Union South",
+      "campus": "Columbus",
+      "eui": 21.4,
+      "annual_kwh": 6001676.0,
+      "gross_area": 280482.0,
+      "construction_year": 2008
+    },
+    {
+      "siteid": 44255,
+      "sitename": "Parking Garage - Medical Center Tower",
+      "campus": "Columbus",
+      "eui": 21.66,
+      "annual_kwh": 15339502.0,
+      "gross_area": 708129.0,
+      "construction_year": 2020
+    },
+    {
+      "siteid": 44265,
+      "sitename": "Poultry Breeding House 3",
+      "campus": "Columbus",
+      "eui": 23.47,
+      "annual_kwh": 240108.0,
+      "gross_area": 10229.0,
+      "construction_year": 1959
+    },
+    {
+      "siteid": 44257,
+      "sitename": "Parking Garage - Northwest",
+      "campus": "Columbus",
+      "eui": 23.83,
+      "annual_kwh": 5437941.0,
+      "gross_area": 228195.0,
+      "construction_year": 1974
+    },
+    {
+      "siteid": 44043,
+      "sitename": "18th Ave, 209 W",
+      "campus": "Columbus",
+      "eui": 23.91,
+      "annual_kwh": 598676.0,
+      "gross_area": 25034.0,
+      "construction_year": 1993
+    },
+    {
+      "siteid": 44258,
+      "sitename": "Parking Garage - Ohio Union North",
+      "campus": "Columbus",
+      "eui": 24.79,
+      "annual_kwh": 5372425.0,
+      "gross_area": 216738.0,
+      "construction_year": 1969
+    },
+    {
+      "siteid": 44254,
+      "sitename": "Parking Garage - Lane Avenue",
+      "campus": "Columbus",
+      "eui": 25.24,
+      "annual_kwh": 11251875.0,
+      "gross_area": 445873.0,
+      "construction_year": 2010
+    },
+    {
+      "siteid": 44251,
+      "sitename": "Parking Garage - 9th Ave West",
+      "campus": "Columbus",
+      "eui": 26.27,
+      "annual_kwh": 9772148.0,
+      "gross_area": 371919.0,
+      "construction_year": 1980
+    },
+    {
+      "siteid": 44248,
+      "sitename": "Parking Garage - 11th Ave",
+      "campus": "Columbus",
+      "eui": 31.08,
+      "annual_kwh": 6870411.0,
+      "gross_area": 221080.0,
+      "construction_year": 1977
+    },
+    {
+      "siteid": 44256,
+      "sitename": "Parking Garage - Neil Ave",
+      "campus": "Columbus",
+      "eui": 33.44,
+      "annual_kwh": 10892613.0,
+      "gross_area": 325700.0,
+      "construction_year": 2004
+    },
+    {
+      "siteid": 44249,
+      "sitename": "Parking Garage - 12th Ave West",
+      "campus": "Columbus",
+      "eui": 34.72,
+      "annual_kwh": 8156622.0,
+      "gross_area": 234895.0,
+      "construction_year": 1987
+    },
+    {
+      "siteid": 44250,
+      "sitename": "Parking Garage - 9th Ave East",
+      "campus": "Columbus",
+      "eui": 38.65,
+      "annual_kwh": 12848712.0,
+      "gross_area": 332400.0,
+      "construction_year": 2009
+    },
+    {
+      "siteid": 44014,
+      "sitename": "Bradley Hall",
+      "campus": "Columbus",
+      "eui": 46.74,
+      "annual_kwh": 3287842.0,
+      "gross_area": 70349.0,
+      "construction_year": 1954
+    },
+    {
+      "siteid": 44069,
+      "sitename": "Hughes Hall",
+      "campus": "Columbus",
+      "eui": 51.75,
+      "annual_kwh": 3136899.0,
+      "gross_area": 60613.0,
+      "construction_year": 1949
+    },
+    {
+      "siteid": 47029,
+      "sitename": "Campus Shop",
+      "campus": "Columbus",
+      "eui": 55.42,
+      "annual_kwh": 570280.0,
+      "gross_area": 10291.0,
+      "construction_year": 2006
+    },
+    {
+      "siteid": 44203,
+      "sitename": "11th Ave, 53 W",
+      "campus": "Columbus",
+      "eui": 70.52,
+      "annual_kwh": 375250.0,
+      "gross_area": 5321.0,
+      "construction_year": 1890
+    },
+    {
+      "siteid": 44157,
+      "sitename": "Timashev Family Music Building",
+      "campus": "Columbus",
+      "eui": 76.14,
+      "annual_kwh": 6283853.0,
+      "gross_area": 82535.0,
+      "construction_year": 2022
+    }
+  ],
+  "total_buildings_analyzed": 257
+}

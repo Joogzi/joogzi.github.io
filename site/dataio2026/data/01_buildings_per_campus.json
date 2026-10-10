@@ -1,0 +1,34 @@
+[
+  {
+    "campus": "Columbus",
+    "count": 485
+  },
+  {
+    "campus": "Satellite",
+    "count": 331
+  },
+  {
+    "campus": "Wooster",
+    "count": 254
+  },
+  {
+    "campus": "Medical Center",
+    "count": 125
+  },
+  {
+    "campus": "Mansfield",
+    "count": 37
+  },
+  {
+    "campus": "Newark",
+    "count": 23
+  },
+  {
+    "campus": "Marion",
+    "count": 17
+  },
+  {
+    "campus": "Lima",
+    "count": 15
+  }
+]

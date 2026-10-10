@@ -1,0 +1,82 @@
+[
+  {
+    "campusname": "Columbus",
+    "total_buildings": 485,
+    "total_area": 28259496,
+    "total_kwh": 7386816026.935016,
+    "num_metered_buildings": 237.0,
+    "total_metered_area": 24361988.0,
+    "avg_eui": 374.4631024143892,
+    "median_eui": 266.4577877010531
+  },
+  {
+    "campusname": "Satellite",
+    "total_buildings": 331,
+    "total_area": 600497,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  },
+  {
+    "campusname": "Wooster",
+    "total_buildings": 254,
+    "total_area": 1728178,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  },
+  {
+    "campusname": "Medical Center",
+    "total_buildings": 125,
+    "total_area": 11267763,
+    "total_kwh": 3637214700.8550053,
+    "num_metered_buildings": 32.0,
+    "total_metered_area": 8305641.0,
+    "avg_eui": 615.3207520565969,
+    "median_eui": 567.5624086968044
+  },
+  {
+    "campusname": "Mansfield",
+    "total_buildings": 37,
+    "total_area": 673060,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  },
+  {
+    "campusname": "Newark",
+    "total_buildings": 23,
+    "total_area": 853775,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  },
+  {
+    "campusname": "Marion",
+    "total_buildings": 17,
+    "total_area": 322155,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  },
+  {
+    "campusname": "Lima",
+    "total_buildings": 15,
+    "total_area": 567427,
+    "total_kwh": 0.0,
+    "num_metered_buildings": 0.0,
+    "total_metered_area": 0.0,
+    "avg_eui": 0.0,
+    "median_eui": 0.0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "siteid": 44155,
+    "sitename": "The James Comprehensive Cancer Center",
+    "campus": "Medical Center",
+    "annual_kwh": 618770844.0,
+    "gross_area": 1183561.0,
+    "eui": 522.8
+  },
+  {
+    "siteid": 44008,
+    "sitename": "Biomedical Research Tower",
+    "campus": "Medical Center",
+    "annual_kwh": 505396800.0,
+    "gross_area": 412630.0,
+    "eui": 1224.82
+  },
+  {
+    "siteid": 44133,
+    "sitename": "Rhodes Hall",
+    "campus": "Medical Center",
+    "annual_kwh": 422607780.0,
+    "gross_area": 508398.0,
+    "eui": 831.25
+  },
+  {
+    "siteid": 44104,
+    "sitename": "Ohio Stadium",
+    "campus": "Columbus",
+    "annual_kwh": 317206088.0,
+    "gross_area": 854223.0,
+    "eui": 371.34
+  },
+  {
+    "siteid": 44131,
+    "sitename": "Recreation and Physical Activity Center",
+    "campus": "Columbus",
+    "annual_kwh": 314107555.0,
+    "gross_area": 279856.0,
+    "eui": 1122.39
+  },
+  {
+    "siteid": 44025,
+    "sitename": "CBEC",
+    "campus": "Columbus",
+    "annual_kwh": 277120398.0,
+    "gross_area": 236537.0,
+    "eui": 1171.57
+  },
+  {
+    "siteid": 44139,
+    "sitename": "Schottenstein Center",
+    "campus": "Columbus",
+    "annual_kwh": 249525058.0,
+    "gross_area": 626259.0,
+    "eui": 398.44
+  },
+  {
+    "siteid": 44163,
+    "sitename": "Veterinary Medical Center",
+    "campus": "Columbus",
+    "annual_kwh": 232983748.0,
+    "gross_area": 278249.0,
+    "eui": 837.32
+  },
+  {
+    "siteid": 44119,
+    "sitename": "Physics Research Building",
+    "campus": "Columbus",
+    "annual_kwh": 210880208.0,
+    "gross_area": 238732.0,
+    "eui": 883.33
+  },
+  {
+    "siteid": 44136,
+    "sitename": "Ross Heart Hospital",
+    "campus": "Medical Center",
+    "annual_kwh": 202232032.0,
+    "gross_area": 311590.0,
+    "eui": 649.03
+  },
+  {
+    "siteid": 44142,
+    "sitename": "Scott Laboratory",
+    "campus": "Columbus",
+    "annual_kwh": 173758819.0,
+    "gross_area": 262375.0,
+    "eui": 662.25
+  },
+  {
+    "siteid": 44220,
+    "sitename": "James Outpatient Care",
+    "campus": "Medical Center",
+    "annual_kwh": 168409145.0,
+    "gross_area": 396764.0,
+    "eui": 424.46
+  },
+  {
+    "siteid": 44015,
+    "sitename": "Brain and Spine Hospital",
+    "campus": "Medical Center",
+    "annual_kwh": 167666669.0,
+    "gross_area": 258797.0,
+    "eui": 647.87
+  },
+  {
+    "siteid": 44036,
+    "sitename": "Doan Hall",
+    "campus": "Medical Center",
+    "annual_kwh": 162094718.0,
+    "gross_area": 684497.0,
+    "eui": 236.81
+  },
+  {
+    "siteid": 44122,
+    "sitename": "Postle Hall",
+    "campus": "Columbus",
+    "annual_kwh": 153998651.0,
+    "gross_area": 394592.0,
+    "eui": 390.27
+  },
+  {
+    "siteid": 44056,
+    "sitename": "Graves Hall",
+    "campus": "Medical Center",
+    "annual_kwh": 142479622.0,
+    "gross_area": 219994.0,
+    "eui": 647.65
+  },
+  {
+    "siteid": 44037,
+    "sitename": "Dodd Hall",
+    "campus": "Medical Center",
+    "annual_kwh": 141594667.0,
+    "gross_area": 86802.0,
+    "eui": 1631.24
+  },
+  {
+    "siteid": 44135,
+    "sitename": "Rightmire Hall",
+    "campus": "Columbus",
+    "annual_kwh": 111777123.0,
+    "gross_area": 97650.0,
+    "eui": 1144.67
+  },
+  {
+    "siteid": 44006,
+    "sitename": "Biological Science Building",
+    "campus": "Columbus",
+    "annual_kwh": 110326088.0,
+    "gross_area": 180694.0,
+    "eui": 610.57
+  },
+  {
+    "siteid": 44040,
+    "sitename": "Dreese Laboratories",
+    "campus": "Columbus",
+    "annual_kwh": 106971806.0,
+    "gross_area": 185430.0,
+    "eui": 576.89
+  },
+  {
+    "siteid": 44114,
+    "sitename": "Park-Stradley Hall",
+    "campus": "Columbus",
+    "annual_kwh": 105520643.0,
+    "gross_area": 271039.0,
+    "eui": 389.32
+  },
+  {
+    "siteid": 44033,
+    "sitename": "Davis Heart and Lung Research Institute",
+    "campus": "Medical Center",
+    "annual_kwh": 101342659.0,
+    "gross_area": 139528.0,
+    "eui": 726.32
+  },
+  {
+    "siteid": 44171,
+    "sitename": "Wiseman Hall",
+    "campus": "Medical Center",
+    "annual_kwh": 98635411.0,
+    "gross_area": 82032.0,
+    "eui": 1202.4
+  },
+  {
+    "siteid": 44105,
+    "sitename": "Ohio Union",
+    "campus": "Columbus",
+    "annual_kwh": 93560158.0,
+    "gross_area": 317694.0,
+    "eui": 294.5
+  },
+  {
+    "siteid": 44047,
+    "sitename": "Evans Laboratory",
+    "campus": "Columbus",
+    "annual_kwh": 88391161.0,
+    "gross_area": 117574.0,
+    "eui": 751.79
+  }
+]
