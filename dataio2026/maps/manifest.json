@@ -1,91 +1,79 @@
 {
-  "capturedAt": "2026-10-10T21:55:09.555536+00:00",
+  "capturedAt": "2026-10-10T22:08:31.382530+00:00",
   "source": "USGS The National Map \u2014 USGS Topo",
-  "service": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/export",
+  "service": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile",
   "style": "Locally processed dark theme",
   "format": "WebP quality 92",
   "zoom": 15,
   "radius": 12,
+  "tileSize": 256,
+  "uniqueTileCount": 4400,
+  "totalBytes": 23060964,
+  "uniqueImageCount": 4400,
   "campuses": [
     {
       "name": "Columbus",
-      "file": "columbus.webp",
-      "bbox": [
-        -83.155517578125,
-        39.90130858574736,
-        -82.880859375,
-        40.111688665595956
-      ]
+      "centerTile": [
+        8827,
+        12404
+      ],
+      "tileCount": 625
     },
     {
       "name": "Medical Center",
-      "file": "medical-center.webp",
-      "bbox": [
-        -83.155517578125,
-        39.89287990029479,
-        -82.880859375,
-        40.1032859129344
-      ]
+      "centerTile": [
+        8827,
+        12405
+      ],
+      "tileCount": 625
     },
     {
       "name": "Wooster",
-      "file": "wooster.webp",
-      "bbox": [
-        -82.06787109375,
-        40.68063802521457,
-        -81.793212890625,
-        40.888600811930345
-      ]
+      "centerTile": [
+        8926,
+        12311
+      ],
+      "tileCount": 625
     },
     {
       "name": "Lima",
-      "file": "lima.webp",
-      "bbox": [
-        -84.2431640625,
-        40.638967343817235,
-        -83.968505859375,
-        40.84706035607122
-      ]
+      "centerTile": [
+        8728,
+        12316
+      ],
+      "tileCount": 625
     },
     {
       "name": "Mansfield",
-      "file": "mansfield.webp",
-      "bbox": [
-        -82.650146484375,
-        40.69729900863674,
-        -82.37548828125,
-        40.90520969727359
-      ]
+      "centerTile": [
+        8873,
+        12309
+      ],
+      "tileCount": 625
     },
     {
       "name": "Marion",
-      "file": "marion.webp",
-      "bbox": [
-        -83.265380859375,
-        40.48038142908171,
-        -82.99072265625,
-        40.68896903762433
-      ]
+      "centerTile": [
+        8817,
+        12335
+      ],
+      "tileCount": 625
     },
     {
       "name": "Newark",
-      "file": "newark.webp",
-      "bbox": [
-        -82.540283203125,
-        39.96870074491694,
-        -82.265625,
-        40.17887331434696
-      ]
+      "centerTile": [
+        8883,
+        12396
+      ],
+      "tileCount": 625
     },
     {
       "name": "Satellite Locations",
-      "file": "satellite-locations.webp",
-      "bbox": [
-        -83.8916015625,
-        40.24599150419902,
-        -83.616943359375,
-        40.45530721213149
-      ]
+      "centerTile": [
+        8760,
+        12363
+      ],
+      "tileCount": 625
     }
   ]
 }
