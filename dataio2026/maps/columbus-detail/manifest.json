@@ -1,0 +1,47 @@
+{
+  "source": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/export",
+  "capturedAt": "2026-10-10T22:28:25.048370+00:00",
+  "zoom": 15,
+  "tileSize": 2048,
+  "dpi": 768,
+  "tiles": [
+    [
+      8826,
+      12403
+    ],
+    [
+      8826,
+      12404
+    ],
+    [
+      8826,
+      12405
+    ],
+    [
+      8827,
+      12403
+    ],
+    [
+      8827,
+      12404
+    ],
+    [
+      8827,
+      12405
+    ],
+    [
+      8828,
+      12403
+    ],
+    [
+      8828,
+      12404
+    ],
+    [
+      8828,
+      12405
+    ]
+  ],
+  "totalBytes": 799656,
+  "style": "Same local dark palette as base tiles"
+}
